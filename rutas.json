@@ -1,0 +1,34 @@
+[
+    {
+        "id_ruta": 2,
+        "nombre": "Conservadore",
+        "descripcion": "Atraviesa por calle conservadora ",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "21:00:00",
+        "dias_operacion": "Miercoles u Jueves"
+    },
+    {
+        "id_ruta": 5,
+        "nombre": "Movil",
+        "descripcion": "Atraviesa por calle Movil",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "21:00:00",
+        "dias_operacion": "Jueves y Sabados"
+    },
+    {
+        "id_ruta": 6,
+        "nombre": "Loyola",
+        "descripcion": "avColegio Militar",
+        "hora_inicio": "08:00:00",
+        "hora_fin": "20:00:00",
+        "dias_operacion": "Martes y Miercoles"
+    },
+    {
+        "id_ruta": 7,
+        "nombre": "colosio",
+        "descripcion": "por el parque",
+        "hora_inicio": "00:00:00",
+        "hora_fin": "06:00:00",
+        "dias_operacion": "Martes y Miercoles"
+    }
+]
